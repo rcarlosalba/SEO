@@ -63,3 +63,28 @@ hay ciertas técnicas pero la contextualización de los ejercicios es la clave.
 - Relevancia: Responde a las consultas de los usuarios? 
 - Autoridad: link building cantidad de sitios web que nos enlazan 
 - Responsive Design: diseño adaptable 
+
+## Cómo escribir un primer párrafo
+- define el objetivo de tu texto 
+- los 150 caracteres más importantes del texto (será lo primero que se lea en la descripción de google)
+- responder una pregunta o resolver un problema 
+
+## Cómo escribir buenos títulos
+- Reduce el objetivo del texto a máximo 3 palabras claves
+- olvidate de los adjetivos y artículos
+- piensa en la intención de búsqueda y en tu objetivo 
+- Plantea preguntas
+- no te pases de 70 caracteres
+
+## Ten un CTA
+- Quédate con un solo objetivo 
+- Ubica siempre el CTA en el mismo lugar. 
+- Utiliza palabras claras y directas sobre lo que quieres que haga el usuario
+
+## Cómo mejorar la ortografía y la redacción 
+- No escribas como hablas.
+- No le temas al punto y seguido. 
+- Leer en voz alta lo que escribes.
+- Estructura, negritas, cursiva
+- un revisor
+- leer mucho
