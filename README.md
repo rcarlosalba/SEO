@@ -1,8 +1,7 @@
 # SEO
 Apuntes del curso de SEO con @maldeadora en Platzi
 
-## Clase 1
-Qué significa escribir para internet: 
+## Qué significa escribir para internet: 
 - pareciera que no hay mucha diferencia.
 - la clave es pensar en las condiciones en las que mi contenido será consumido. 
 - Qué lees en internet?
@@ -12,12 +11,11 @@ Lo más seguro es que leámos desde el Móvil, en 2022 superará los 81 millones
 Escribir para internet significa: 
 - pensar en el tiempo
 - pensar en accesibilidad
-- pensar en la experiencia del usuario 
+- pensar en la experiencia del usuario (UX)
 
 El SEO no son tecnicismos o reglas absolutas, se trata de contenido de calidad que sea facil de consumir
 
-## Clase 2
-Qué es SEO 
+## Qué es SEO 
 - La idea es crear la mejor experiencia de usuario
 - optimización para motores de busqueda
 - tecnicas al contenido y al código para lograr los primeros lugares en los resultados de motores de busqueda.
@@ -29,7 +27,7 @@ Escribir bien - Pensar en quién va a leerte.
 Recursividad y Concreción - Procesos y estructras que funcionan.
 Conocer las técnicas -  optimizar con sentido.
 
-## Clase 3
+## Glosario
 Glosario: 
 - SEO: Técnicas aplicadas al contenido y código ppara lograr los primeros lugares. 
 - UX User Experience: Factores al uso de la interacción 
@@ -59,10 +57,10 @@ Glosario:
 - Realmente existe?
 hay ciertas técnicas pero la contextualización de los ejercicios es la clave. 
 ### 4 Condiciones básicas
-- Frecuencias: de publicación y actualización de sitio web (blog) debe ser definido por el usuario y el que consume
-- Relevancia: Responde a las consultas de los usuarios? 
-- Autoridad: link building cantidad de sitios web que nos enlazan 
-- Responsive Design: diseño adaptable 
+- **Frecuencias:** de publicación y actualización de sitio web (blog) debe ser definido por el usuario y el que consume
+- **Relevancia:** Responde a las consultas de los usuarios? 
+- **Autoridad:** link building cantidad de sitios web que nos enlazan 
+- **Responsive Design:** diseño adaptable 
 
 ## Cómo escribir un primer párrafo
 - define el objetivo de tu texto 
@@ -70,11 +68,11 @@ hay ciertas técnicas pero la contextualización de los ejercicios es la clave.
 - responder una pregunta o resolver un problema 
 
 ## Cómo escribir buenos títulos
-- Reduce el objetivo del texto a máximo 3 palabras claves
-- olvidate de los adjetivos y artículos
-- piensa en la intención de búsqueda y en tu objetivo 
-- Plantea preguntas
-- no te pases de 70 caracteres
+- Reduce el objetivo del texto a máximo 3 palabras claves.
+- olvidate de los adjetivos y artículos.
+- piensa en la intención de búsqueda y en tu objetivo (comprar? Como funciona? para que sirve? aprender?).
+- Plantea preguntas (Cómo se busca? cómo pregunta el usuario?) Preguntas alrededor de la busqueda.
+- no te pases de 70 caracteres.
 
 ## Ten un CTA
 - Quédate con un solo objetivo 
