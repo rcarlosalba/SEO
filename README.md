@@ -78,6 +78,10 @@ hay ciertas técnicas pero la contextualización de los ejercicios es la clave.
 - Quédate con un solo objetivo 
 - Ubica siempre el CTA en el mismo lugar. 
 - Utiliza palabras claras y directas sobre lo que quieres que haga el usuario
+(Lanzamienot, reseña, tutorial)
+
+## Dale estructura a tu texto
+- Jerarquia de la información
 
 ## Cómo mejorar la ortografía y la redacción 
 - No escribas como hablas.
@@ -86,3 +90,31 @@ hay ciertas técnicas pero la contextualización de los ejercicios es la clave.
 - Estructura, negritas, cursiva
 - un revisor
 - leer mucho
+- Re-escribe y re-lee
+
+## Tecnicas para posicionar 
+### Cómo hacer un Keyword Research 
+- Short tail: Alto volumen de busqueda pero es de términos muy generales. baja comversión 
+- middle tail: más específico de mediano volumen. Mediana Conversión 
+- Long tail: Términos muy específicos. de baja frecuencia o volumen pero de alta conversión. 
+- Lluvia de dias previa 
+- busqueda simple en google palabras incluidas en videos, y otros articulos. Buscar preguntas alrededor de la busqueda. Nos pueden dar más ideas. 
+- Ver al final de la busqueda las busquedas relacioandas de Google 
+- Usar google trends 
+### Linkbuilding.
+Hacer que sitios con relevancia y autoridad nos refieran
+### Cómo hacer link building 
+- Crear contenido de Calidad
+- Disfribuir por diferentes canales
+
+
+
+
+
+
+
+
+
+
+
+
